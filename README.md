@@ -1,5 +1,5 @@
 ## Hi there 👋 I a Fahami Jemal
-I'm a passionate junior full-stack developer with experience in Django, React, JavaScript, and cloud-based solutions. I have a solid foundation in backend development and system architecture, focusing on building scalable applications. My journey includes developing secure web applications and microservices, with a keen interest in cloud integrations. Currently, I am expanding my knowledge in DevOps, cloud computing,Frontend, and backend engineering to deliver seamless digital experiencess
+I'm a passionate full-stack developer and AI/ML with experience in Django, React, JavaScript, and cloud-based solutions. I have a solid foundation in backend development and system architecture, focusing on building scalable applications. My journey includes developing secure web applications and microservices, with a keen interest in cloud integrations. Currently, I am expanding my knowledge in DevOps, cloud computing,Frontend, and backend engineering to deliver seamless digital experiencess
 
 <!--
 **fahamijemal/fahamijemal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
