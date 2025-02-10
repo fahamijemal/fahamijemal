@@ -1,17 +1,39 @@
-## Hi there 👋 I a Fahami Jemal
-I'm a passionate full-stack developer and AI/ML with experience in Django, React, JavaScript, and cloud-based solutions. I have a solid foundation in backend development and system architecture, focusing on building scalable applications. My journey includes developing secure web applications and microservices, with a keen interest in cloud integrations. Currently, I am expanding my knowledge in DevOps, cloud computing,Frontend, and backend engineering to deliver seamless digital experiencess
+# Welcome to Fahami Jemal's Profile!  
 
-<!--
-**fahamijemal/fahamijemal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Software Engineering GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif)
 
-Here are some ideas to get you started:
+👨‍💻 I'm a passionate Full-Stack developer, constantly learning and exploring new technologies to improve my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about my experience with:  
+- HTML  
+- CSS  
+- JavaScript
+- React  
+- Django  
+- Python  
+- MySQL 
+- Docker 
+- Cloud Computing  
+
+⚡ **Fact:** I love discipline and hard work.  
+
+## Connect with Me:
+- LinkedIn: [fahamijemal](https://www.linkedin.com/in/fahamijemal)
+- Telegram: [@fahamijemal](https://t.me/fahamijemal)
+- GitHub: [fahamijemal](https://github.com/fahamijemal)
+- Email: fahamijemal1@gmail.com
+- Phone: +251939521098
+
+## 🛠 Tech Stack:
+- HTML
+- CSS
+- JavaScript
+- React
+- Django
+- Python
+- MySQL
+- Docker
+- kubernates
+- Git
+- GitHub
+- Cloud Computing
