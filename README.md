@@ -1,5 +1,5 @@
 # Welcome to Fahami Jemal's Profile!  
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full-stack+developer;I+love+building+scalable+web+applications;Currently+learning+DevOps+and+cloud+computing)](https://git.io/typing-svg)
 ![Software Engineering GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif)
 
 👨‍💻 I'm a passionate Full-Stack developer, constantly learning and exploring new technologies to improve my skills.  
