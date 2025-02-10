@@ -1,18 +1,22 @@
-# Welcome to Fahami Jemal's Profile!  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full-stack+developer;I+love+building+scalable+web+applications;Currently+learning+DevOps+and+cloud+computing)](https://git.io/typing-svg)
-![Software Engineering GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif)
+# Welcome to Fahami Jemal's Profile!
 
-👨‍💻 I'm a passionate Full-Stack developer, constantly learning and exploring new technologies to improve my skills.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full-stack+developer;I+love+building+scalable+web+applications;Currently+learning+React)](https://git.io/typing-svg)
 
-💬 Ask me about my experience with:  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="400" />
+</div>
+
+👨‍💻 I'm a passionate Full-Stack developer, constantly learning and exploring new technologies to improve my skills.
+
+💬 Ask me about my experience with:
 - HTML  
 - CSS  
-- JavaScript
+- JavaScript  
 - React  
 - Django  
 - Python  
-- MySQL 
-- Docker 
+- MySQL  
+- Docker  
 - Cloud Computing  
 
 ⚡ **Fact:** I love discipline and hard work.  
@@ -33,7 +37,7 @@
 - Python
 - MySQL
 - Docker
-- kubernates
+- Kubernetes
 - Git
 - GitHub
 - Cloud Computing
