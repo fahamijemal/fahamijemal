@@ -15,10 +15,6 @@
 - React  
 - Django  
 - Python  
-- MySQL  
-- Docker  
-- Cloud Computing  
-
 ⚡ **Fact:** I love discipline and hard work.  
 
 ## Connect with Me:
