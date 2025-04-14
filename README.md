@@ -1,6 +1,12 @@
 # 💫 Welcome to Fahami Jemal's Profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Fahami+Jemal;Full-Stack+Developer;Always+learning+new+things!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Fahami+Jemal;Junior+Full-Stack+Developer;Always+learning+new+things!)
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="400" />
+</div>
+
 
 I'm a passionate **Full-Stack Developer**, constantly learning and exploring new technologies to improve my skills.
 
@@ -21,12 +27,14 @@ I love **discipline** and **hard work**.
 
 ---
 
-# 🌐 Connect with Me:
+## 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahamijemal)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fahamijemal)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahamijemal)  
-**Email:** fahamijemal1@gmail.com  
-**Phone:** +251939521098
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahamijemal1@gmail.com)  
+[![Phone](https://img.shields.io/badge/Call-251939521098-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+251939521098)
+
 
 ---
 
@@ -55,11 +63,6 @@ I love **discipline** and **hard work**.
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fahamijemal&theme=flat&no-frame=true&margin-w=10)
-
----
-
-# ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ---
 
