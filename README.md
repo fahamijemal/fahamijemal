@@ -1,5 +1,5 @@
 
-![👁️‍🗨️](https://komarev.com/ghpvc/?username=fahamijemal&style=for-the-badge&color=blue)
+👁️‍🗨️![👁️‍🗨️](https://komarev.com/ghpvc/?username=fahamijemal&style=for-the-badge&color=blue)
 
 # 💫 Welcome to Fahami Jemal's Profile!
 
