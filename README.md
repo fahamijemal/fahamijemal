@@ -1,4 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=fahamijemal&style=flat-square&color=blue)
+## 👁️‍🗨️ Profile Views
+![Visitor Badge](https://komarev.com/ghpvc/?username=fahamijemal&style=for-the-badge&color=blue)
+
 # 💫 Welcome to Fahami Jemal's Profile!
 
 <p align="left">
