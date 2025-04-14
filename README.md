@@ -1,14 +1,15 @@
 # 💫 Welcome to Fahami Jemal's Profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Fahami+Jemal;Junior+Full-Stack+Developer;Always+learning+new+things!)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Fahami+Jemal;Junior+Full-Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
+</p>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="400" />
-</div>
-
+<p align="right">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="250" alt="coding-gif" />
+</p>
 
 I'm a passionate **Full-Stack Developer**, constantly learning and exploring new technologies to improve my skills.
+
 
 ---
 
