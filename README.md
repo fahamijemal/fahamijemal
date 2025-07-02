@@ -25,7 +25,7 @@ I love **discipline** and **hard work**.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fahamijemal)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahamijemal)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahamijemal1@gmail.com)  
-[![Phone](https://img.shields.io/badge/Call-251939521098-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+251939521098)
+[![Phone](https://img.shields.io/badge/Call-251939521098-blue?style=for-the-badge&logo=phone&logoColor=white)](tel: +251939521098)
 
 
 ---
