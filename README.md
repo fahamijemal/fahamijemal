@@ -4,7 +4,7 @@
 # 💫 Welcome to Fahami Jemal's Profile!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Fahami+Jemal;Junior+Full-Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Fahami+Jemal;Full-Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 <p align="right">
